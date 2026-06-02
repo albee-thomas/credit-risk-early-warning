@@ -98,7 +98,7 @@ What-If parameter slider: if default rate rises by X% · projected additional ex
 ## 📁 Repository Structure
 
 sql — Schema creation · risk tier segmentation · cohort queries
-notebooks — Feature engineering · EDA · correlation analysis
+notebooks — [▶ Open in Google Colab](https://colab.research.google.com/drive/1GuXs8o8wFAQJ4-ZZN0iU5ZQO4qDV4i1N?usp=sharing) · Feature engineering · EDA · correlation analysis
 exports — Cleaned dataset feeding Power BI
 dashboard — Interactive Power BI dashboard (.pbix)
 brief — 1-page executive PDF summary
